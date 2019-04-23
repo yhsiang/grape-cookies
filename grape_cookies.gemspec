@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.require_paths = ['lib']
 
-  spec.add_runtime_dependency 'rack', '~> 1.3', '>= 1.3.0'
+  spec.add_runtime_dependency 'rack', '~> 2.0', '>= 2.0.0'
   spec.add_runtime_dependency 'rack-mount', '~> 0'
   spec.add_runtime_dependency 'rack-accept', '~> 0'
   spec.add_runtime_dependency 'activesupport', '~> 5.2', '>= 5.2.0'
