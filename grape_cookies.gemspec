@@ -22,8 +22,8 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'rack', '~> 1.3', '>= 1.3.0'
   spec.add_runtime_dependency 'rack-mount', '~> 0'
   spec.add_runtime_dependency 'rack-accept', '~> 0'
-  spec.add_runtime_dependency 'activesupport', '~> 4.1', '>= 4.1.0'
-  spec.add_runtime_dependency 'actionpack', '~> 4.1', '>= 4.1.0'
+  spec.add_runtime_dependency 'activesupport', '~> 5.2', '>= 5.2.0'
+  spec.add_runtime_dependency 'actionpack', '~> 5.2', '>= 5.2.0'
 
   spec.add_development_dependency 'grape', '~> 0'
 
